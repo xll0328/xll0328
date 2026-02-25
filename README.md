@@ -1,0 +1,112 @@
+<div align="center">
+
+# 👋 Hi, I'm Songning Lai (Sony)
+
+**Quant Researcher** @ [JoinQuant](https://www.joinquant.com) · Research in **Trustworthy AI** 🤖
+
+[![Website](https://img.shields.io/badge/🌐_Personal_Website-xll0328.github.io-2563eb?style=for-the-badge)](https://xll0328.github.io/)
+[![Email](https://img.shields.io/badge/📧_Email-lais0328eee@gmail.com-ea4335?style=for-the-badge&logo=gmail)](mailto:lais0328eee@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285f4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=gRXN-rMAAAAJ&hl=en)
+
+*Explainability 🔍 · Robustness 🛡️ · Faithfulness ✅ · Safety 🔒*
+
+</div>
+
+---
+
+## 📌 About Me
+
+I am **Songning Lai** (you can call me **Sony**). I received my **B.S.** from the [School of Information Science and Engineering](https://www.sdu.edu.cn/), [Chongxin College](https://baike.baidu.com/item/山东大学崇新学堂), [Shandong University](https://www.sdu.edu.cn/), supervised by Prof. [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm). I was a **Research Assistant** at [HKUST(GZ) AI Thrust & INFO Hub](https://www.hkust-gz.edu.cn/), supervised by Prof. [Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). I also had an international research experience as a **Visiting Student** at **KAUST**. I am currently a **Quant Researcher** at [JoinQuant](https://www.joinquant.com).
+
+My primary research interest lies in **Trustworthy AI**, encompassing **explainability**, **robustness**, **faithfulness**, and **safety**. I have focused extensively on **Concept Bottleneck Models (CBMs)** and their applications in vision-language interpretation, medical diagnosis, continual learning, and autonomous driving. I also work on **faithful time series forecasting**, **LLM explainability & knowledge editing**, and **multimodal learning**.
+
+---
+
+## 🔬 Research Interests
+
+| Area | Topics |
+|------|--------|
+| **Concept Bottleneck Models** | Faithful vision-language interpretation (ICLR 2024), medical multi-dimensional explanation (NeurIPS 2024), continual learning (ACM MM 2025 BNI), backdoor & security |
+| **Trustworthy ML** | Robustness, faithfulness, interpretability, time series under uncertainty (ICML 2025, ICASSP 2026) |
+| **Applications** | Medical imaging, autonomous driving (ICRA 2025), LLM knowledge editing (ICLR 2026) |
+
+---
+
+## 🔥 Recent News
+
+- **01.2026** — [ACE](https://arxiv.org/pdf/2510.07896): Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall accepted at **ICLR 2026**.
+- **01.2026** — Time series forecasting under uncertainty (ambiguity & novelty rejection) accepted at **ICASSP 2026** (CCF B).
+- **01.2026** — TPTD (privacy-preserving truth discovery) accepted at **Knowledge-Based Systems (KBS)** (JCR Q1).
+- **12.2025** — Da Yu (USV-based image captioning) accepted at **IEEE TCSVT** (IF 11.1, CCF B).
+- **10.2025** — Mimicking the Physicist's Eye (VLM for physics formula discovery) accepted at **NeurIPS 2025 Workshop** (spotlight).
+- **08.2025** — 3 papers at **ACM MM 2025 BNI Track** (CONCIL, Physics-Informed Radio-Map, Audio LM metaphorical reasoning).
+- **07.2025** — 4 papers at **ACM MM 2025** (FTS, ANT, Text2Weight, CFSSeg).
+- **05.2025** — [SVCT](https://arxiv.org/pdf/2506.05286): Stable Vision Concept Transformers for Medical Diagnosis at **ECML-PKDD 2025**.
+- **09.2024** — [Med-MICN](https://arxiv.org/abs/2410.21494): Multi-dimensional Explanation for Medical Classification at **NeurIPS 2024** (CCF A).
+
+*More news on my [website](https://xll0328.github.io/#news).*
+
+---
+
+## 📝 Selected Publications
+
+| Year | Venue | Paper | Project / Code |
+|------|--------|--------|----------------|
+| **2026** | ICLR | [ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/pdf/2510.07896) | — |
+| **2026** | ICASSP | Towards Reliable Time Series Forecasting under Future Uncertainty | — |
+| **2025** | ACM MM BNI | [CONCIL: Continual Learning for Multimodal Concept Bottleneck Models](https://arxiv.org/pdf/2411.17471) | [Web](https://xll0328.github.io/concil/) · [Code](https://github.com/xll0328/CONCIL---ACM-MM-2025-BNI-Track-) |
+| **2025** | ACM MM | [FTS: Faithful TimeSieve for Multimedia Web Forecasting](https://dl.acm.org/doi/10.1145/3746027.3754963) | [Web](https://xll0328.github.io/fts/) · [Code](https://github.com/xll0328/MM25-FTS) |
+| **2025** | ICRA | [DRIVE: Interpretable Ensemble Framework in Autonomous Driving](https://arxiv.org/pdf/2409.10330) | [Web](https://xll0328.github.io/drive/) · [Code](https://github.com/xll0328/ICRA25-DRIVE) |
+| **2025** | ECML | [SVCT: Stable Vision Concept Transformers for Medical Diagnosis](https://arxiv.org/pdf/2506.05286) | [Web](https://xll0328.github.io/svct/) · [Code](https://github.com/xll0328/-ECML-2025-SVCT) |
+| **2025** | ICASSP | [PEPL: Precision-Enhanced Pseudo-Labeling for Fine-Grained Image Classification](https://arxiv.org/pdf/2409.03192) | — |
+| **2024** | NeurIPS | [Med-MICN: Multi-dimensional Explanation for Medical Classification](https://arxiv.org/abs/2410.21494) | [Web](https://xll0328.github.io/medmicn/) · [Code](https://github.com/xll0328/NeurIPS24-Med_MICN) |
+| **2024** | ICLR | [FVLC: Faithful Vision-Language Interpretation via Concept Bottleneck Models](https://openreview.net/forum?id=rp0EdI8X4e) | [Web](https://xll0328.github.io/fvlc/) · [Code](https://github.com/xll0328/FVLC) |
+
+**Full list:** [xll0328.github.io — Publications](https://xll0328.github.io/#publications)
+
+---
+
+## 🎖 Honors & Awards
+
+| Type | Award |
+|------|--------|
+| 🏆 | **NeurIPS 2024** Travel Award |
+| 🏆 | **ICRA 2025** Travel Award |
+| ⭐ | **IEEE/EI CISP-BMEI 2022** Best Paper Award |
+| 🥇 | **First Prize**, Contemporary Undergraduate Mathematical Contest in Modeling (National, top **0.6%**) |
+| 🥇 | **First Prize**, MathorCup University Mathematical Modeling Challenge (National, top **3%**) |
+| 🥈 | Second Prize, National Undergraduate Electronic Design Contest (Shandong Province) |
+| 🥈 | Second Prize, National Crypto-math Challenge (East China) |
+| 🎓 | **Outstanding graduate** of Shandong Province & Shandong University |
+| 📊 | **40+** university-level awards (competitions, social practice, innovation, sports, volunteer, scholarship) |
+
+---
+
+## 📖 Education & Experience
+
+| Period | Role | Place |
+|--------|------|--------|
+| *Now* | **Quant Researcher** | [JoinQuant](https://www.joinquant.com) |
+| Apr 2024 – Sep 2025 | **Research Assistant** | HKUST(GZ) AI Thrust & INFO Hub |
+| Apr 2023 – Mar 2024 | **Visiting Student** | KAUST |
+| Sep 2020 – Jun 2024 | **B.S.** (Information Science and Engineering) | Shandong University, Chongxin College |
+
+---
+
+## 💻 Service
+
+**Conference & Journal Reviewer:** ECAI, ICML, KDD, ICLR, CVPR, ICCV, NeurIPS, ACM MM, IJCAI, Expert Systems with Applications, etc.
+
+---
+
+## 👥 Collaborators & Friends
+
+[Jiayu Yang](https://yjywdzh.github.io/) · [Wenshuo Chen](https://chatonz.github.io/) · [Jiemin Wu](https://scholar.google.com/citations?user=INre9KUAAAAJ) · [Weilin Ruan](https://rwlinno.github.io/) · [Jiakang Li](https://jiakanglee.github.io/) · *and more on my [website](https://xll0328.github.io/#friends)*
+
+---
+
+<div align="center">
+
+**Interested in collaboration or chat?** [📧 Email me](mailto:lais0328eee@gmail.com) · [🌐 Full site](https://xll0328.github.io/)
+
+</div>
