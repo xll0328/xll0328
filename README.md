@@ -52,7 +52,7 @@ My primary research interest lies in **Trustworthy AI**, encompassing **explaina
 
 | Year | Venue | Paper | Project / Code |
 |------|--------|--------|----------------|
-| **2026** | ICLR | [ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/pdf/2510.07896) | — |
+| **2026** | ICLR | [ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/pdf/2510.07896) | [Web](https://xll0328.github.io/ace/) · [Code](https://github.com/xll0328/ICLR26-ACE) |
 | **2026** | ICASSP | Towards Reliable Time Series Forecasting under Future Uncertainty | — |
 | **2025** | ACM MM BNI | [CONCIL: Continual Learning for Multimodal Concept Bottleneck Models](https://arxiv.org/pdf/2411.17471) | [Web](https://xll0328.github.io/concil/) · [Code](https://github.com/xll0328/CONCIL---ACM-MM-2025-BNI-Track-) |
 | **2025** | ACM MM | [FTS: Faithful TimeSieve for Multimedia Web Forecasting](https://dl.acm.org/doi/10.1145/3746027.3754963) | [Web](https://xll0328.github.io/fts/) · [Code](https://github.com/xll0328/MM25-FTS) |
