@@ -18,7 +18,9 @@
 
 I am **Songning Lai** (you can call me **Sony**). I received my **B.S.** from the [School of Information Science and Engineering](https://www.sdu.edu.cn/), [Chongxin College](https://baike.baidu.com/item/山东大学崇新学堂), [Shandong University](https://www.sdu.edu.cn/), supervised by Prof. [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm). I was a **Research Assistant** at [HKUST(GZ) AI Thrust & INFO Hub](https://www.hkust-gz.edu.cn/), supervised by Prof. [Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). I also had an international research experience as a **Visiting Student** at **KAUST**. I am currently a **Quant Researcher** at [JoinQuant](https://www.joinquant.com).
 
-My primary research interest lies in **Trustworthy AI**, encompassing **explainability**, **robustness**, **faithfulness**, and **safety**. I have focused extensively on **Concept Bottleneck Models (CBMs)** and their applications in vision-language interpretation, medical diagnosis, continual learning, and autonomous driving. I also work on **faithful time series forecasting**, **LLM explainability & knowledge editing**, and **multimodal learning**.
+My primary research interest lies in **Trustworthy AI**, especially **explainability**, **robustness**, **faithfulness**, and **safety**. A large portion of my work centers on **Concept Bottleneck Models (CBMs)**, including faithful vision-language interpretation ([FVLC, ICLR 2024](https://openreview.net/forum?id=rp0EdI8X4e)), medical explanation ([Med-MICN, NeurIPS 2024](https://arxiv.org/abs/2410.21494)), continual learning ([CONCIL, ACM MM 2025 BNI](https://arxiv.org/pdf/2411.17471)), robust medical diagnosis ([SVCT, ECML-PKDD 2025](https://arxiv.org/pdf/2506.05286)), and semantic security / backdoor attacks ([CAT, TMLR 2026](https://openreview.net/forum?id=bntZBG9fBY)).
+
+Beyond CBMs, I also work on **faithful time series forecasting** ([FTS, ACM MM 2025](https://dl.acm.org/doi/10.1145/3746027.3754963)), **LLM explainability & knowledge editing** ([ACE, ICLR 2026](https://arxiv.org/pdf/2510.07896)), and trustworthy applications in **autonomous driving** ([DRIVE, ICRA 2025](https://arxiv.org/pdf/2409.10330)). More details, project pages, and a fuller publication list are available on my [personal website](https://xll0328.github.io/).
 
 ---
 
@@ -35,15 +37,14 @@ My primary research interest lies in **Trustworthy AI**, encompassing **explaina
 ## 🔥 Recent News
 
 - **03.2026** — [CAT](https://openreview.net/forum?id=bntZBG9fBY): *Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models* accepted at **TMLR 2026**. [Project Page](https://xll0328.github.io/cat/) · [Code](https://github.com/xll0328/CAT_CBM-Backdoor)
-- **01.2026** — [ACE](https://arxiv.org/pdf/2510.07896): Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall accepted at **ICLR 2026**.
-- **01.2026** — Time series forecasting under uncertainty (ambiguity & novelty rejection) accepted at **ICASSP 2026** (CCF B).
-- **01.2026** — TPTD (privacy-preserving truth discovery) accepted at **Knowledge-Based Systems (KBS)** (JCR Q1).
-- **12.2025** — Da Yu (USV-based image captioning) accepted at **IEEE TCSVT** (IF 11.1, CCF B).
-- **10.2025** — Mimicking the Physicist's Eye (VLM for physics formula discovery) accepted at **NeurIPS 2025 Workshop** (spotlight).
-- **08.2025** — 3 papers at **ACM MM 2025 BNI Track** (CONCIL, Physics-Informed Radio-Map, Audio LM metaphorical reasoning).
-- **07.2025** — 4 papers at **ACM MM 2025** (FTS, ANT, Text2Weight, CFSSeg).
-- **05.2025** — [SVCT](https://arxiv.org/pdf/2506.05286): Stable Vision Concept Transformers for Medical Diagnosis at **ECML-PKDD 2025**.
-- **09.2024** — [Med-MICN](https://arxiv.org/abs/2410.21494): Multi-dimensional Explanation for Medical Classification at **NeurIPS 2024** (CCF A).
+- **01.2026** — [ACE](https://arxiv.org/pdf/2510.07896): Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall accepted at **ICLR 2026**. [Project Page](https://xll0328.github.io/ace/) · [Code](https://github.com/xll0328/ICLR26-ACE)
+- **01.2026** — *Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms* accepted at **ICASSP 2026** (CCF B).
+- **08.2025** — [CONCIL](https://arxiv.org/pdf/2411.17471): continual learning for multimodal concept bottleneck models accepted at **ACM MM 2025 BNI Track**. [Project Page](https://xll0328.github.io/concil/) · [Code](https://github.com/xll0328/CONCIL---ACM-MM-2025-BNI-Track-)
+- **07.2025** — [FTS](https://dl.acm.org/doi/10.1145/3746027.3754963): faithful multimedia web forecasting accepted at **ACM MM 2025**. [Project Page](https://xll0328.github.io/fts/) · [Code](https://github.com/xll0328/MM25-FTS)
+- **05.2025** — [SVCT](https://arxiv.org/pdf/2506.05286): Stable Vision Concept Transformers for Medical Diagnosis accepted at **ECML-PKDD 2025**. [Project Page](https://xll0328.github.io/svct/) · [Code](https://github.com/xll0328/-ECML-2025-SVCT)
+- **01.2025** — [DRIVE](https://arxiv.org/pdf/2409.10330): interpretable autonomous driving accepted at **ICRA 2025**. [Project Page](https://xll0328.github.io/drive/) · [Code](https://github.com/xll0328/ICRA25-DRIVE)
+- **09.2024** — [Med-MICN](https://arxiv.org/abs/2410.21494): multi-dimensional explanation for medical classification accepted at **NeurIPS 2024**. [Project Page](https://xll0328.github.io/medmicn/) · [Code](https://github.com/xll0328/NeurIPS24-Med_MICN)
+- **01.2024** — [FVLC](https://openreview.net/forum?id=rp0EdI8X4e): Faithful Vision-Language Interpretation via Concept Bottleneck Models accepted at **ICLR 2024**. [Project Page](https://xll0328.github.io/fvlc/) · [Code](https://github.com/xll0328/FVLC)
 
 *More news on my [website](https://xll0328.github.io/#news).*
 
@@ -55,12 +56,11 @@ My primary research interest lies in **Trustworthy AI**, encompassing **explaina
 |------|--------|--------|----------------|
 | **2026** | TMLR | [CAT: Concept-Level Backdoor Attacks on Concept Bottleneck Models](https://openreview.net/forum?id=bntZBG9fBY) | [Web](https://xll0328.github.io/cat/) · [Code](https://github.com/xll0328/CAT_CBM-Backdoor) |
 | **2026** | ICLR | [ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/pdf/2510.07896) | [Web](https://xll0328.github.io/ace/) · [Code](https://github.com/xll0328/ICLR26-ACE) |
-| **2026** | ICASSP | Towards Reliable Time Series Forecasting under Future Uncertainty | — |
+| **2026** | ICASSP | [Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms](https://arxiv.org/pdf/2503.19656) | — |
 | **2025** | ACM MM BNI | [CONCIL: Continual Learning for Multimodal Concept Bottleneck Models](https://arxiv.org/pdf/2411.17471) | [Web](https://xll0328.github.io/concil/) · [Code](https://github.com/xll0328/CONCIL---ACM-MM-2025-BNI-Track-) |
 | **2025** | ACM MM | [FTS: Faithful TimeSieve for Multimedia Web Forecasting](https://dl.acm.org/doi/10.1145/3746027.3754963) | [Web](https://xll0328.github.io/fts/) · [Code](https://github.com/xll0328/MM25-FTS) |
 | **2025** | ICRA | [DRIVE: Interpretable Ensemble Framework in Autonomous Driving](https://arxiv.org/pdf/2409.10330) | [Web](https://xll0328.github.io/drive/) · [Code](https://github.com/xll0328/ICRA25-DRIVE) |
 | **2025** | ECML | [SVCT: Stable Vision Concept Transformers for Medical Diagnosis](https://arxiv.org/pdf/2506.05286) | [Web](https://xll0328.github.io/svct/) · [Code](https://github.com/xll0328/-ECML-2025-SVCT) |
-| **2025** | ICASSP | [PEPL: Precision-Enhanced Pseudo-Labeling for Fine-Grained Image Classification](https://arxiv.org/pdf/2409.03192) | — |
 | **2024** | NeurIPS | [Med-MICN: Multi-dimensional Explanation for Medical Classification](https://arxiv.org/abs/2410.21494) | [Web](https://xll0328.github.io/medmicn/) · [Code](https://github.com/xll0328/NeurIPS24-Med_MICN) |
 | **2024** | ICLR | [FVLC: Faithful Vision-Language Interpretation via Concept Bottleneck Models](https://openreview.net/forum?id=rp0EdI8X4e) | [Web](https://xll0328.github.io/fvlc/) · [Code](https://github.com/xll0328/FVLC) |
 
