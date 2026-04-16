@@ -34,6 +34,7 @@ My primary research interest lies in **Trustworthy AI**, encompassing **explaina
 
 ## 🔥 Recent News
 
+- **03.2026** — [CAT](https://openreview.net/forum?id=bntZBG9fBY): *Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models* accepted at **TMLR 2026**. [Project Page](https://xll0328.github.io/cat/) · [Code](https://github.com/xll0328/CAT_CBM-Backdoor)
 - **01.2026** — [ACE](https://arxiv.org/pdf/2510.07896): Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall accepted at **ICLR 2026**.
 - **01.2026** — Time series forecasting under uncertainty (ambiguity & novelty rejection) accepted at **ICASSP 2026** (CCF B).
 - **01.2026** — TPTD (privacy-preserving truth discovery) accepted at **Knowledge-Based Systems (KBS)** (JCR Q1).
@@ -52,6 +53,7 @@ My primary research interest lies in **Trustworthy AI**, encompassing **explaina
 
 | Year | Venue | Paper | Project / Code |
 |------|--------|--------|----------------|
+| **2026** | TMLR | [CAT: Concept-Level Backdoor Attacks on Concept Bottleneck Models](https://openreview.net/forum?id=bntZBG9fBY) | [Web](https://xll0328.github.io/cat/) · [Code](https://github.com/xll0328/CAT_CBM-Backdoor) |
 | **2026** | ICLR | [ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/pdf/2510.07896) | [Web](https://xll0328.github.io/ace/) · [Code](https://github.com/xll0328/ICLR26-ACE) |
 | **2026** | ICASSP | Towards Reliable Time Series Forecasting under Future Uncertainty | — |
 | **2025** | ACM MM BNI | [CONCIL: Continual Learning for Multimodal Concept Bottleneck Models](https://arxiv.org/pdf/2411.17471) | [Web](https://xll0328.github.io/concil/) · [Code](https://github.com/xll0328/CONCIL---ACM-MM-2025-BNI-Track-) |
