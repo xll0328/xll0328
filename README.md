@@ -26,9 +26,9 @@ My primary research interest lies in **Trustworthy AI**, encompassing **explaina
 
 | Area | Topics |
 |------|--------|
-| **Concept Bottleneck Models** | Faithful vision-language interpretation (ICLR 2024), medical multi-dimensional explanation (NeurIPS 2024), continual learning (ACM MM 2025 BNI), backdoor & security |
-| **Trustworthy ML** | Robustness, faithfulness, interpretability, time series under uncertainty (ICML 2025, ICASSP 2026) |
-| **Applications** | Medical imaging, autonomous driving (ICRA 2025), LLM knowledge editing (ICLR 2026) |
+| **Concept Bottleneck Models** | [FVLC](https://openreview.net/forum?id=rp0EdI8X4e) for faithful vision-language interpretation (**ICLR 2024**); [Med-MICN](https://arxiv.org/abs/2410.21494) for multi-dimensional medical explanation (**NeurIPS 2024**); [CONCIL](https://arxiv.org/pdf/2411.17471) for continual learning in multimodal CBMs (**ACM MM 2025 BNI**); [SVCT](https://arxiv.org/pdf/2506.05286) for robust medical CBMs (**ECML-PKDD 2025**); [CAT](https://openreview.net/forum?id=bntZBG9fBY) for concept-level backdoor attacks and CBM security (**TMLR 2026**) |
+| **Trustworthy ML** | Faithfulness, robustness, interpretability, and safety in CBMs and time series; [FTS](https://dl.acm.org/doi/10.1145/3746027.3754963) for faithful multimedia web forecasting (**ACM MM 2025**); time-series reliability under future uncertainty (**ICML 2025**, **ICASSP 2026**) |
+| **Applications** | [DRIVE](https://arxiv.org/pdf/2409.10330) for interpretable autonomous driving (**ICRA 2025**); [ACE](https://arxiv.org/pdf/2510.07896) for LLM knowledge editing and explainability (**ICLR 2026**); medical imaging, multimodal learning, and trustworthy deployment in real-world systems |
 
 ---
 
