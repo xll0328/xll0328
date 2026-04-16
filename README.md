@@ -24,6 +24,17 @@ Beyond CBMs, I also work on **faithful time series forecasting** ([FTS, ACM MM 2
 
 ---
 
+## ⭐ Featured Projects
+
+| Project | Focus | Venue | Links |
+|--------|-------|-------|-------|
+| **CAT** | Concept-level backdoor attacks on Concept Bottleneck Models | **TMLR 2026** | [Web](https://xll0328.github.io/cat/) · [Code](https://github.com/xll0328/CAT_CBM-Backdoor) |
+| **CONCIL** | Continual learning for multimodal Concept Bottleneck Models | **ACM MM 2025 BNI** | [Web](https://xll0328.github.io/concil/) · [Code](https://github.com/xll0328/CONCIL---ACM-MM-2025-BNI-Track-) |
+| **FVLC** | Faithful vision-language interpretation via Concept Bottleneck Models | **ICLR 2024** | [Web](https://xll0328.github.io/fvlc/) · [Code](https://github.com/xll0328/FVLC) |
+| **ACE** | Attribution-controlled knowledge editing for multi-hop factual recall | **ICLR 2026** | [Web](https://xll0328.github.io/ace/) · [Code](https://github.com/xll0328/ICLR26-ACE) |
+
+---
+
 ## 🔬 Research Interests
 
 | Area | Topics |
